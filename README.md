@@ -1,4 +1,4 @@
--  Hi, I’m @ArnavKusurkar
+-  Hi
 -  I’m a Cyber Security Professional
 -  Welcome to a profile full of easy cyberattacking repositories
 -  How to reach me mail ID - arnavamol77@gmail.com or my name is unique look it up on LinkedIn
